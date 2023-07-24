@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 ---><h1 align="center">Hi 👋, I'm M GURUPRASAD</h1>
 <h3 align="center">A passionate programmer from coimbatore,Tamil nadu</h3>
 
-- 🌱 I’m currently learning **React js ,Node js and Android app development**
+- 🌱 I’m currently learning **HTML,CSS,REACTJS**
 
-- 👯 I’m looking to collaborate on **Node js**
+- 👯 I’m looking to collaborate on **JAVA**
 
 - 🤝 I’m looking for help with **Portfolio creation**
 
